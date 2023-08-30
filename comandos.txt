@@ -1,0 +1,6 @@
+venv\Scripts\Activate #ativa a virtualenv
+deactivate
+pip freeze
+django-admin help
+django-admin startproject setup
+python manage.py runserver
